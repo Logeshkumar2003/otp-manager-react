@@ -14,10 +14,6 @@
 npm install --save otp-manager-react
 ```
 
-## Demo
-
-https://otp-manager-arun.netlify.app/
-
 ## Usage
 
 ```jsx
