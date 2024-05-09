@@ -8,10 +8,6 @@
 ![image](https://user-images.githubusercontent.com/14010423/112599239-b241ce00-8e35-11eb-9073-b8d1d0fd1d9c.png)
 
 
-## Github Repo
-
-https://github.com/arunkarri/otp-manager-react
-
 ## Install
 
 ```bash
@@ -80,14 +76,6 @@ export default App
 | verifyBtnClasses | Classes for the Verify OTP Button |
 | verifyBtnLabel | Display label for the Verify OTP Button |
 | action | callback function to be called after otp is verified |
-
-
-## Donate
-<p>
-  <a href="https://www.paypal.me/arunkashyapkarri">
-      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
-  </a>
-</p>
 
 
 ## License
